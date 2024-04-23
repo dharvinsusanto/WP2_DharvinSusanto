@@ -33,4 +33,12 @@ class ModelUser extends CI_Model
         $this->db->limit(10, 0);
         return $this->db->get();
     }
+    
+    public function joinKategoriBuku($where)
+    {
+        $this->db->from('buku');
+        $this->db->join('kategori','kategori.id = buku.id_kategori');
+        $this->db->where($where);
+        return $this->db->get();
+    }
 }
