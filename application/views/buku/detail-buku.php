@@ -39,8 +39,8 @@
                             </table>
                         </center>
                         <p>
-                            <a class="btn btn-outline-primary fas fw fa-shopping-cart" href="<?= base_url('booking/tambahBooking/' . $id); ?>"> Booking</a>
-                            <span class="btn btn-outline-secondary fas fw fa-reply" onclick="window.history.go(-1)"> Kembali</span>
+                            <a class="btn btn-outline-primary fas fw fa-shoppingcart" href="<?= base_url('booking/tambahBooking/' . $id); ?>"> Booking</a>
+                            <span class="btn btn-outline-secondary fas fw fareply" onclick="window.history.go(-1)"> Kembali</span>
                         </p>
                     </div>
                 </div>

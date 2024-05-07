@@ -1,4 +1,4 @@
-<!-- Login modal -->
+<!-- login modal -->
 <div class="modal fade" tabindex="-1" id="loginModal" role="dialog">
     <div class="modal-dialog" role="document">
         <div class="modal-content">
@@ -31,9 +31,9 @@
         </div>
     </div>
 </div>
-<!-- /Login modal -->
+<!-- login modal -->
 
-<!-- Daftar modal -->
+<!-- daftar modal -->
 <div class="modal fade" tabindex="-1" id="daftarModal" role="dialog">
     <div class="modal-dialog" role="document">
         <div class="modal-content">
@@ -69,9 +69,8 @@
         </div>
     </div>
 </div>
-<!-- /End of Daftar modal -->
-
-<!-- Modal info -->
+<!--/end of Modal Daftar -->
+<!-- modal info-->
 <div class="modal fade" tabindex="-1" id="modalinfo" role="dialog">
     <div class="modal-dialog" role="document">
         <div class="modal-content">
@@ -90,4 +89,4 @@
         </div>
     </div>
 </div>
-<!-- /Modal info -->
+<!--/modal info -->
