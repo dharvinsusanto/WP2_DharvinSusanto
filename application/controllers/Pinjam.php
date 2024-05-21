@@ -7,7 +7,7 @@ class Pinjam extends CI_Controller
 	{
 		parent::__construct();
 		cek_login();
-		cek_user();
+		cek_user(); 
 	}
 
 
